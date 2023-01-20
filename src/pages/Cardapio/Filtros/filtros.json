@@ -14,5 +14,9 @@
 	{
 		"label": "Veganos",
 		"id": 4
+	},
+	{
+		"label": "Gnochi",
+		"id": 5
 	}
 ]
